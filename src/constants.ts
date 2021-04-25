@@ -24,7 +24,7 @@ export enum Rounding {
 
 //main net new version  
 export const FACTORY_ADDRESS = '0xca143ce32fe78f1f7019d7d551a6402fc5350c73'
-export const INIT_CODE_HASH = 'x00fb7f630766e6a796048ea87d01acd3068e8ff67d078148a3fa3f4a84f69bd5'
+export const INIT_CODE_HASH = '0x00fb7f630766e6a796048ea87d01acd3068e8ff67d078148a3fa3f4a84f69bd5'
 
 //testnet 
 // export const FACTORY_ADDRESS = '0x02E14543f4f049E0be88712446A86c0076fC9263'
